@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://lkb-static-test-2.vercel.app/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lkb-static-test-2.vercel.app</link>
 	<description>Just another LKB Dev Sites site</description>
 	<lastBuildDate>Sat, 15 Oct 2022 21:55:58 +0000</lastBuildDate>
 	<sy:updatePeriod>
